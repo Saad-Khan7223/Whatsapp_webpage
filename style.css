@@ -1,0 +1,58 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Segoe UI, Helvetica
+    }
+    
+    .head {
+        display: flex;
+        background-color: #06cf9c;
+        font-weight: 500;
+        color: white;
+        padding-left: 5vw;
+        height: 20vh;
+        padding-top: 2vw;
+        text-transform: uppercase;
+    }
+    
+    .head2 {
+        margin-left: 1vw;
+    }
+    
+    .landingBody {
+        display: flex;
+        background-color: white;
+    }
+    
+    .qrcheck {
+        float: right;
+        text-align: center;
+        color: #41525d;
+        margin-top: 20%;
+    }
+    
+    .text {
+        font-size: 28px;
+        font-weight: 300;
+        color: #41525d;
+        margin-bottom: 5%;
+        margin-left: 20%;
+        margin-top: 10%;
+    }
+    
+    .qrtext {
+        padding-top: 50%;
+    }
+    
+    .videosec {
+        background-color: #c2c2c2;
+        display: flex;
+        justify-content: center;
+        margin: 10% 20%;
+        height: 60vh;
+    }
+    
+    body {
+        background-color: #c2c2c2
+    }
